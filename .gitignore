@@ -1,0 +1,8 @@
+project.lock.json
+[Bb]in/
+[Oo]bj/
+.vs/
+packages/
+SignalRTest/scripts/
+PublishProfiles/
+*.csproj.user
